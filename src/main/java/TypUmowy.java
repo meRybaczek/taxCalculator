@@ -11,14 +11,6 @@ public enum TypUmowy {
         this.typUmowy = typUmowy;
     }
 
-    public String getTypUmowy() {
-        return typUmowy;
-    }
-
-    public int getNumer() {
-        return numer;
-    }
-
     @Override
     public String toString() {
         return numer + " --> " + typUmowy;
