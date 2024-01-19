@@ -1,3 +1,5 @@
+package Umowa;
+
 public class UmowaOprace extends Umowa {
 
     public static final double KOSZTY_UZYSKANIA_PRZYCHODU_PLN = 111.25;

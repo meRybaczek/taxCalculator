@@ -1,3 +1,7 @@
+package InputData;
+
+import Umowa.TypUmowy;
+
 import java.util.*;
 
 public class InputTerminalImpl implements Input {

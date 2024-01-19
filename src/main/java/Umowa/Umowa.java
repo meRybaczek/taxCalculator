@@ -1,3 +1,5 @@
+package Umowa;
+
 import java.util.LinkedHashMap;
 
 import org.apache.commons.math3.util.Precision;

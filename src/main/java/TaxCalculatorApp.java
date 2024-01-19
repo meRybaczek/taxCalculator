@@ -1,3 +1,10 @@
+import InputData.Input;
+import InputData.InputTerminalImpl;
+import OutputData.Output;
+import OutputData.OutputTerminalImpl;
+import Umowa.Umowa;
+import Umowa.UmowaFactory;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 

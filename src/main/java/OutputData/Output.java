@@ -1,3 +1,5 @@
+package OutputData;
+
 import java.util.Map;
 
 public interface Output {

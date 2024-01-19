@@ -1,8 +1,8 @@
-import java.util.NoSuchElementException;
+package Umowa;
 
 public enum TypUmowy {
-    UOP(1, "Umowa o pracę"),
-    UZ(2, "Umowa zlecenie");
+    UOP(1, "Umowa.Umowa o pracę"),
+    UZ(2, "Umowa.Umowa zlecenie");
     private final String typUmowy;
     private final int numer;
 

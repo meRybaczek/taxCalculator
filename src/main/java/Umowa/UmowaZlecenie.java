@@ -1,3 +1,5 @@
+package Umowa;
+
 import org.apache.commons.math3.util.Precision;
 
 public class UmowaZlecenie extends Umowa {
